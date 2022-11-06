@@ -83,6 +83,7 @@ body {
 }
 
 .input-box input {
+    width: auto;
     margin: o.6rem 0;
     padding: 0.8rem 1.2rem;
     border: none;
