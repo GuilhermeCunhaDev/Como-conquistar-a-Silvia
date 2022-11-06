@@ -6,6 +6,7 @@
     font-family: 'Inter', sans-serif;
 }
 
+
 body {
     width: 100%;
     height: 100vh;
@@ -26,6 +27,7 @@ body {
 
 .form-image {
     width: 50%;
+    border-radius: 10px 0 0 10px ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -141,6 +143,7 @@ body {
     padding: 0.62rem;
     border-radius: 5px;
     cursor: pointer;
+    display: block;
 }
 .continue-button button:hover {
     background-color: #ff0644f1;
