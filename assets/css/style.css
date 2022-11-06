@@ -19,7 +19,7 @@ body {
 
 .container {
     width: 80%;
-    height: 80vh;
+    height: 90vh;
     display: flex;
     padding-bottom: 5rem;
     /*CRIA UMA SOMBRA NA CAIXA */
