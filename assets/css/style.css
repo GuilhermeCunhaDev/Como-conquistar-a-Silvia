@@ -71,7 +71,7 @@ body {
     justify-content: space-between;
     padding: 1rem 0;
     overflow-y: scroll;
-    max-height: 20rem;
+    max-height: 16rem;
 }
 
 .input-box {
@@ -151,7 +151,6 @@ body {
     font-size: 0.93rem;
     font-weight: 500;
     color: #fff;
-    padding-bottom: 3rem;
 }
 
 /*Responsivo*/
